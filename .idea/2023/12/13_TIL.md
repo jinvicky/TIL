@@ -17,6 +17,7 @@ lombok.EqualsAndHashCode.flagUsage = error
 lombok.ToString.flagUsage = error
 ```
 
+
 ### 프로젝트 내 위치
 ![img_1.png](img_1.png) <br />
 최상단에 위치했다.
